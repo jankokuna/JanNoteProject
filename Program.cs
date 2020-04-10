@@ -26,7 +26,8 @@ namespace ImageClob
         private static string LogFIlePath = "";
         private static string NowDateString = "";
         private static int cnt = 0;
-        private static int lcnt = 0;
+        private static int lcnt = 0;    
+
 
         public class InfoFileTypeRS : Verygood.bizbase.Biz_Base
         {
