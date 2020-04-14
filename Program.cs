@@ -27,7 +27,8 @@ namespace ImageClob
         private static string NowDateString = "";
         private static int cnt = 0;
         private static int lcnt = 0;
-        private static int lcnt2 = 0;
+        private static int lcnt3= 0;
+        private static int test1 = 0;
 
 
         public class InfoFileTypeRS : Verygood.bizbase.Biz_Base
